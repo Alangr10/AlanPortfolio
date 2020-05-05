@@ -1,150 +1,173 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AlansPorfoliowebsite.com" resolutions="1x" timestamp="1555056495673">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AlansPorfoliowebsite.com" resolutions="1x" timestamp="1588702044347">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="194546569" ref="3d-modeling:index:websites:illustrations:artiststatement:video-editing:photoshop"/>
-    <file name="3d-modeling.css" crc="335126749" ref="3d-modeling"/>
-    <file name="index.css" crc="111193055" ref="index"/>
-    <file name="websites.css" crc="4265898198" ref="websites"/>
-    <file name="illustrations.css" crc="260345453" ref="illustrations"/>
-    <file name="artiststatement.css" crc="4268866215" ref="artiststatement"/>
-    <file name="video-editing.css" crc="4053655213" ref="video-editing"/>
-    <file name="photoshop.css" crc="4162795363" ref="photoshop"/>
+    <file name="master_a-master.css" crc="3931483965" ref="video-editing:photoshop:3d-modeling:index:programming:illustrations:aboutme"/>
+    <file name="video-editing.css" crc="434445561" ref="video-editing"/>
+    <file name="photoshop.css" crc="387369098" ref="photoshop"/>
+    <file name="3d-modeling.css" crc="4008722843" ref="3d-modeling"/>
+    <file name="index.css" crc="4261340160" ref="index"/>
+    <file name="programming.css" crc="3807995404" ref="programming"/>
+    <file name="illustrations.css" crc="528155625" ref="illustrations"/>
+    <file name="aboutme.css" crc="4193676429" ref="aboutme"/>
+  </folder>
+  <folder name="assets">
+    <file name="viejochupicuaro.tif" crc="4052197419" seo="true" mt="1588141511000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="artiststatement:photoshop:index:illustrations:video-editing:3d-modeling:websites"/>
-    <file name="museutils.js" crc="3803043152" ref="artiststatement:photoshop:index:illustrations:video-editing:3d-modeling:websites"/>
-    <file name="whatinput.js" crc="86476730" ref="artiststatement:photoshop:index:illustrations:video-editing:3d-modeling:websites"/>
-    <file name="museconfig.js" crc="380897831" ref="artiststatement:photoshop:index:illustrations:video-editing:3d-modeling:websites"/>
-    <file name="jquery.watch.js" crc="99325471" ref="artiststatement:photoshop:index:illustrations:video-editing:3d-modeling:websites"/>
-    <file name="require.js" crc="4157109226" ref="artiststatement:photoshop:index:illustrations:video-editing:3d-modeling:websites"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="museutils.js" crc="3803043152" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="whatinput.js" crc="86476730" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="museconfig.js" crc="380897831" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="jquery.watch.js" crc="99325471" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="html5shiv.js" crc="4241844378" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="require.js" crc="4157109226" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="webpro.js" crc="242022427" ref="photoshop:index:illustrations:3d-modeling"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="photoshop:index:illustrations:3d-modeling"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="photoshop:index:illustrations:3d-modeling"/>
+    <file name="touchswipe.js" crc="4066113679" ref="photoshop:index:illustrations:3d-modeling"/>
   </folder>
   <folder name="images">
-    <file name="u4402-4.png" crc="4135056541" ref="artiststatement:photoshop:index:illustrations:video-editing:3d-modeling:websites"/>
-    <file name="u7064-4.png" crc="4133813745" ref="artiststatement:photoshop:index:illustrations:video-editing:3d-modeling:websites"/>
-    <file name="u6894-4.png" crc="397785439" ref="artiststatement"/>
-    <file name="u7421-21.png" crc="3770029038" ref="artiststatement"/>
-    <file name="u6897-4.png" crc="4029697139" ref="photoshop"/>
-    <file name="u7191-4.png" crc="403886851" ref="photoshop"/>
-    <file name="u7194-4.png" crc="272628605" ref="photoshop"/>
-    <file name="mondays.svg" crc="3974286243" seo="true" ref="photoshop">
+    <file name="u4402-4.png" crc="116241711" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="u8764-4.png" crc="270989219" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming"/>
+    <file name="img_20190408_142354.jpg" crc="4101238659" seo="true" ref="aboutme">
+      <caption webpage="aboutme" alt=""/>
+    </file>
+    <file name="u7421-14.png" crc="4097280515" ref="aboutme"/>
+    <file name="u6897-4.png" crc="225070512" ref="photoshop"/>
+    <file name="tiacare.png" crc="4003262319" seo="true" ref="photoshop">
       <caption webpage="photoshop" alt=""/>
     </file>
-    <file name="mondays_poster_.png" crc="349842074" ref="photoshop"/>
-    <file name="project2pic1.png" crc="3977827002" seo="true" ref="photoshop">
+    <file name="blank.gif" crc="4208392903" ref="photoshop:index:illustrations:3d-modeling"/>
+    <file name="tiofinal.png" crc="370089222" seo="true" ref="photoshop">
       <caption webpage="photoshop" alt=""/>
     </file>
-    <file name="project2pic2.png" crc="4164685301" seo="true" ref="photoshop">
+    <file name="loading.gif" crc="3815509949" ref="photoshop:index:illustrations:3d-modeling"/>
+    <file name="u8391-4.png" crc="4161378757" ref="photoshop"/>
+    <file name="portrailsecondhalf.jpg" crc="402921925" seo="true" ref="photoshop">
       <caption webpage="photoshop" alt=""/>
     </file>
-    <file name="project2pic3.png" crc="318914223" seo="true" ref="photoshop">
+    <file name="u8938-5.png" crc="4253117658" ref="photoshop"/>
+    <file name="u8935-4.png" crc="4253959131" ref="photoshop"/>
+    <file name="bizzardproject1-crop-u9043.jpg" crc="4012974045" seo="true" ref="photoshop">
       <caption webpage="photoshop" alt=""/>
     </file>
-    <file name="project2pic4.png" crc="129576624" seo="true" ref="photoshop">
-      <caption webpage="photoshop" alt=""/>
+    <file name="u9064-4.png" crc="4229767588" ref="photoshop"/>
+    <file name="viejochupicuaro.jpg" crc="3780240340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="project2pic5.png" crc="125030488" seo="true" ref="photoshop">
-      <caption webpage="photoshop" alt=""/>
-    </file>
-    <file name="u7480-5.png" crc="283417930" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u6871_states.png" crc="4134569615" ref="index"/>
-    <file name="u6871_states-r.png" crc="3965663169" ref="index"/>
-    <file name="u6874_states.png" crc="138290646" ref="index"/>
-    <file name="u6874_states-r.png" crc="4264012114" ref="index"/>
-    <file name="u6995_states.png" crc="207166546" ref="index"/>
-    <file name="u6995_states-r.png" crc="4103479273" ref="index"/>
-    <file name="u6877_states.png" crc="4010187066" ref="index"/>
-    <file name="u6877_states-r.png" crc="450089862" ref="index"/>
-    <file name="u6998_states.png" crc="4140921701" ref="index"/>
-    <file name="u6998_states-r.png" crc="125030164" ref="index"/>
-    <file name="u7004_states.png" crc="434757393" ref="index"/>
-    <file name="u7004_states-r.png" crc="3898395412" ref="index"/>
-    <file name="u6891-4.png" crc="495384457" ref="illustrations"/>
-    <file name="u7139-4.png" crc="264951676" ref="illustrations"/>
-    <file name="u7097-4.png" crc="4085791954" ref="illustrations"/>
-    <file name="tiofinal.svg" crc="233623064" seo="true" ref="illustrations">
+    <file name="u6891-4.png" crc="3924905450" ref="illustrations"/>
+    <file name="soledadillustrationdone-crop-u8404.jpg" crc="3886792376" seo="true" ref="illustrations">
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="tiofinal_poster_.png" crc="237680524" ref="illustrations"/>
-    <file name="tiacare.svg" crc="4123197605" seo="true" ref="illustrations">
+    <file name="vchupicuaro-crop-u8719.jpg" crc="3778700077" seo="true" ref="illustrations">
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="tiacare_poster_.png" crc="205182876" ref="illustrations"/>
-    <file name="illustrationuncle.jpg" crc="260133912" seo="true" ref="illustrations">
+    <file name="u8743-4.png" crc="3873589287" ref="illustrations"/>
+    <file name="zekeiconbg.jpg" crc="187183626" seo="true" ref="illustrations">
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="u7142-4.png" crc="297156939" ref="illustrations"/>
-    <file name="u7133-4.png" crc="486699451" ref="illustrations"/>
+    <file name="sadzeke.jpg" crc="3867374922" seo="true" ref="illustrations">
+      <caption webpage="illustrations" alt=""/>
+    </file>
+    <file name="u8909-4.png" crc="4067017985" ref="illustrations"/>
+    <file name="u8751-4.png" crc="3799111079" ref="illustrations"/>
     <file name="alanobstacles.svg" crc="4287261369" seo="true" ref="illustrations">
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="alanobstacles_poster_.png" crc="430136025" ref="illustrations"/>
-    <file name="img_7786.jpg" crc="316866069" seo="true" ref="illustrations">
+    <file name="alanobstacles_poster_.png" crc="4066755422" ref="illustrations"/>
+    <file name="20180302_141322.jpg" crc="3963398690" seo="true" ref="illustrations">
       <caption webpage="illustrations" alt=""/>
     </file>
-    <file name="u7145-4.png" crc="3781989873" ref="illustrations"/>
-    <file name="u7148-4.png" crc="532966088" ref="illustrations"/>
-    <file name="zekeiconbg.jpg" crc="3863966047" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
+    <file name="u8912-4.png" crc="4163711566" ref="illustrations"/>
+    <file name="u8757-4.png" crc="165855376" ref="illustrations"/>
+    <file name="u9070-4.png" crc="184684220" ref="video-editing"/>
+    <file name="u9086-5.png" crc="249025431" ref="video-editing"/>
+    <file name="u9089-4.png" crc="3903755512" ref="video-editing"/>
+    <file name="u9099-5.png" crc="312116587" ref="video-editing"/>
+    <file name="u9102-4.png" crc="328407322" ref="video-editing"/>
+    <file name="u9073-5.png" crc="4200231273" ref="video-editing"/>
+    <file name="u7374-4.png" crc="155938368" ref="video-editing"/>
+    <file name="u9079-5.png" crc="4056448740" ref="video-editing"/>
+    <file name="u7389-4.png" crc="3833279466" ref="video-editing"/>
+    <file name="u9092-5.png" crc="522696722" ref="video-editing"/>
+    <file name="u7414-4.png" crc="211521370" ref="video-editing"/>
+    <file name="u9105-4.png" crc="148366645" ref="3d-modeling"/>
+    <file name="u9135-4.png" crc="4027081081" ref="3d-modeling"/>
+    <file name="sculturechupicuarouv.jpg" crc="4268194603" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
     </file>
-    <file name="sadzeke.jpg" crc="4112884950" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
+    <file name="sculturechupicuarounity.jpg" crc="4156445848" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
     </file>
-    <file name="zekeworkingprogress.jpg" crc="303166241" seo="true" ref="illustrations">
-      <caption webpage="illustrations" alt=""/>
+    <file name="u9141-4.png" crc="498287482" ref="3d-modeling"/>
+    <file name="gameboyfinal2.jpg" crc="308458620" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
     </file>
-    <file name="u7379-4.png" crc="4285156566" ref="video-editing"/>
-    <file name="u7373-4.png" crc="3994685216" ref="video-editing"/>
-    <file name="u7374-4.png" crc="3788779033" ref="video-editing"/>
-    <file name="u7386-4.png" crc="143782644" ref="video-editing"/>
-    <file name="u7389-4.png" crc="4115746581" ref="video-editing"/>
-    <file name="u7411-4.png" crc="3998335684" ref="video-editing"/>
-    <file name="u7414-4.png" crc="500952696" ref="video-editing"/>
-    <file name="u7263-4.png" crc="4263795223" ref="3d-modeling"/>
-    <file name="u7286-4.png" crc="4288939125" ref="3d-modeling"/>
-    <file name="u7287-4.png" crc="4020896533" ref="3d-modeling"/>
+    <file name="final project.jpg" crc="4016403150" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="20180518_193132.jpg" crc="3890516098" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="u9183-4.png" crc="53853649" ref="3d-modeling"/>
+    <file name="u9186-4.png" crc="475859309" ref="3d-modeling"/>
+    <file name="bed-crop-u9418.jpg" crc="227664714" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="bookcase-crop-u9438.jpg" crc="15598245" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="lamp-crop-u9458.jpg" crc="4144103450" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="ropero-crop-u9478.jpg" crc="495920704" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="bed-crop-u9424.jpg" crc="152667184" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="bookcase-crop-u9444.jpg" crc="385126920" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="lamp-crop-u9464.jpg" crc="3931446578" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="ropero-crop-u9484.jpg" crc="127912104" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="u9500-4.png" crc="3998320604" ref="3d-modeling"/>
+    <file name="texturestwo.jpg" crc="20247086" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
     <file name="mastersword.jpg" crc="463242427" seo="true" ref="3d-modeling">
       <caption webpage="3d-modeling" alt=""/>
     </file>
-    <file name="texturestwo.jpg" crc="413178477" seo="true" ref="3d-modeling">
-      <caption webpage="3d-modeling" alt=""/>
-    </file>
-    <file name="u7302-4.png" crc="4020665549" ref="3d-modeling"/>
-    <file name="u7303-4.png" crc="409368752" ref="3d-modeling"/>
+    <file name="u9503-4.png" crc="4176408910" ref="3d-modeling"/>
+    <file name="u9506-4.png" crc="157572978" ref="3d-modeling"/>
     <file name="anibackground0037.jpg" crc="439423411" seo="true" ref="3d-modeling">
       <caption webpage="3d-modeling" alt=""/>
     </file>
     <file name="anibackground0065.jpg" crc="4123289062" seo="true" ref="3d-modeling">
       <caption webpage="3d-modeling" alt=""/>
     </file>
-    <file name="u7338-4.png" crc="340922239" ref="3d-modeling"/>
-    <file name="u7339-4.png" crc="3901770184" ref="3d-modeling"/>
+    <file name="u9509-4.png" crc="449286695" ref="3d-modeling"/>
+    <file name="u9512-4.png" crc="3974012543" ref="3d-modeling"/>
     <file name="finalanimationaztecapart201.jpg" crc="242078692" seo="true" ref="3d-modeling">
       <caption webpage="3d-modeling" alt=""/>
     </file>
     <file name="finalanimationaztecapart267.jpg" crc="376783983" seo="true" ref="3d-modeling">
       <caption webpage="3d-modeling" alt=""/>
     </file>
-    <file name="u7424-4.png" crc="4023988797" ref="websites"/>
-    <file name="u7427-4.png" crc="461148294" ref="websites"/>
-    <file name="gameboyfinal2.jpg" crc="308458620" seo="true" ref="websites">
-      <caption webpage="websites" alt=""/>
-    </file>
-    <file name="final project.jpg" crc="171136664" seo="true" ref="websites">
-      <caption webpage="websites" alt=""/>
-    </file>
-    <file name="20180518_193132.jpg" crc="3890516098" seo="true" ref="websites">
-      <caption webpage="websites" alt=""/>
-    </file>
-    <file name="20180518_193203.jpg" crc="163174299" seo="true" ref="websites">
-      <caption webpage="websites" alt=""/>
-    </file>
+    <file name="u9515-4.png" crc="3980467144" ref="3d-modeling"/>
+    <file name="u9518-4.png" crc="4265172666" ref="3d-modeling"/>
+    <file name="u9189-4.png" crc="4266266223" ref="programming"/>
   </folder>
-  <file name="artiststatement.html" crc="3866775585" seo="true" mt="1555044841253" redirect="true"/>
-  <file name="photoshop.html" crc="4267346826" seo="true" mt="1555037927458" redirect="true"/>
-  <file name="index.html" crc="3997393690" seo="true" mt="1555048664728" redirect="true"/>
-  <file name="illustrations.html" crc="290115063" seo="true" mt="1555035819844" redirect="true"/>
-  <file name="video-editing.html" crc="377683911" seo="true" mt="1555043824239" redirect="true"/>
-  <file name="3d-modeling.html" crc="377711467" seo="true" mt="1555042399426" redirect="true"/>
-  <file name="websites.html" crc="3923551060" seo="true" mt="1555048505326" redirect="true"/>
+  <file name="aboutme.html" crc="3850311889" seo="true" mt="1588657169433" redirect="true"/>
+  <file name="photoshop.html" crc="409362659" seo="true" mt="1588701946916" redirect="true"/>
+  <file name="index.html" crc="425225158" seo="true" mt="1588657169433" redirect="true"/>
+  <file name="illustrations.html" crc="4138067678" seo="true" mt="1588659513257" redirect="true"/>
+  <file name="video-editing.html" crc="243378831" seo="true" mt="1588657169433" redirect="true"/>
+  <file name="3d-modeling.html" crc="4274958531" seo="true" mt="1588659185934" redirect="true"/>
+  <file name="programming.html" crc="3768616067" seo="true" mt="1588657169433" redirect="true"/>
 </manifest>
