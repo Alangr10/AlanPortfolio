@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://AlansPorfoliowebsite.com/index.html</loc>
-    <lastmod>2020-05-04</lastmod>
+    <lastmod>2020-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://AlansPorfoliowebsite.com/images/viejochupicuaro.jpg</image:loc>
+      <image:loc>http://AlansPorfoliowebsite.com/images/viejochupicuarotower-crop-u9552.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AlansPorfoliowebsite.com/images/innermonster-crop-u9652.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AlansPorfoliowebsite.com/images/sculturechupicuarounity.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AlansPorfoliowebsite.com/images/bizzardproject1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AlansPorfoliowebsite.com/images/viejochupicuarotower-crop-u9561.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AlansPorfoliowebsite.com/images/innermonster-crop-u9658.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AlansPorfoliowebsite.com/images/sculturechupicuarounity60x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AlansPorfoliowebsite.com/images/bizzardproject160x34.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/aboutme.html</loc>
-    <lastmod>2020-05-04</lastmod>
+    <lastmod>2020-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,7 +41,7 @@
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/photoshop.html</loc>
-    <lastmod>2020-05-05</lastmod>
+    <lastmod>2020-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -38,7 +59,7 @@
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/illustrations.html</loc>
-    <lastmod>2020-05-04</lastmod>
+    <lastmod>2020-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -62,14 +83,14 @@
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/3d-modeling.html</loc>
-    <lastmod>2020-05-04</lastmod>
+    <lastmod>2020-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://AlansPorfoliowebsite.com/images/sculturechupicuarouv.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://AlansPorfoliowebsite.com/images/sculturechupicuarounity.jpg</image:loc>
+      <image:loc>http://AlansPorfoliowebsite.com/images/sculturechupicuarounity626x319.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://AlansPorfoliowebsite.com/images/gameboyfinal2.jpg</image:loc>
@@ -125,15 +146,18 @@
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/video-editing.html</loc>
-    <lastmod>2020-05-04</lastmod>
+    <lastmod>2020-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/programming.html</loc>
-    <lastmod>2020-05-04</lastmod>
+    <lastmod>2020-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AlansPorfoliowebsite.com/images/pasted%20image%20790x794.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/assets/viejochupicuaro.tif</loc>
