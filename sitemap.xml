@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://AlansPorfoliowebsite.com/index.html</loc>
-    <lastmod>2020-05-19</lastmod>
+    <lastmod>2020-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/aboutme.html</loc>
-    <lastmod>2020-05-19</lastmod>
+    <lastmod>2020-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,7 +41,7 @@
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/photoshop.html</loc>
-    <lastmod>2020-05-19</lastmod>
+    <lastmod>2020-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -59,7 +59,7 @@
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/illustrations.html</loc>
-    <lastmod>2020-05-19</lastmod>
+    <lastmod>2020-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/3d-modeling.html</loc>
-    <lastmod>2020-05-19</lastmod>
+    <lastmod>2020-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -146,17 +146,26 @@
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/video-editing.html</loc>
-    <lastmod>2020-05-19</lastmod>
+    <lastmod>2020-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://AlansPorfoliowebsite.com/programming.html</loc>
-    <lastmod>2020-05-19</lastmod>
+    <lastmod>2020-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://AlansPorfoliowebsite.com/images/pasted%20image%20790x794.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AlansPorfoliowebsite.com/art195.html</loc>
+    <lastmod>2020-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AlansPorfoliowebsite.com/images/finalchupicuaro2beta.png</image:loc>
     </image:image>
   </url>
   <url>
