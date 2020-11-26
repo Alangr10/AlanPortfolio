@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AlansPorfoliowebsite.com" resolutions="1x" timestamp="1606352158652">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AlansPorfoliowebsite.com" resolutions="1x" timestamp="1606352977327">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3990996023" ref="video-editing:aboutme:part4:illustrations:programming:photoshop:part2:dm-bfa:3d-modeling:part3:index:part5"/>
@@ -9,7 +9,7 @@
     <file name="programming.css" crc="181392442" ref="programming"/>
     <file name="photoshop.css" crc="284687931" ref="photoshop"/>
     <file name="part2.css" crc="3762049515" ref="part2"/>
-    <file name="dm-bfa.css" crc="468252347" ref="dm-bfa"/>
+    <file name="dm-bfa.css" crc="160191235" ref="dm-bfa"/>
     <file name="3d-modeling.css" crc="423908015" ref="3d-modeling"/>
     <file name="part3.css" crc="4204558636" ref="part3"/>
     <file name="index.css" crc="146658438" ref="index"/>
@@ -217,7 +217,7 @@
   <file name="video-editing.html" crc="3889939451" seo="true" mt="1606329449099" redirect="true"/>
   <file name="3d-modeling.html" crc="4201997403" seo="true" mt="1606329449099" redirect="true"/>
   <file name="programming.html" crc="471827180" seo="true" mt="1606329449099" redirect="true"/>
-  <file name="dm-bfa.html" crc="4176263978" seo="true" mt="1606344556527" redirect="true"/>
+  <file name="dm-bfa.html" crc="53000417" seo="true" mt="1606352888848" redirect="true"/>
   <file name="part2.html" crc="3775913547" seo="true" mt="1606345136701" redirect="true"/>
   <file name="part3.html" crc="181862380" seo="true" mt="1606345271864" redirect="true"/>
   <file name="part4.html" crc="74861715" seo="true" mt="1606351633164" redirect="true"/>
