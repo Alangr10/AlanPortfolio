@@ -1,38 +1,42 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AlansPorfoliowebsite.com" resolutions="1x" timestamp="1605350931483">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AlansPorfoliowebsite.com" resolutions="1x" timestamp="1606352158652">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3990996023" ref="photoshop:3d-modeling:index:art195:programming:illustrations:aboutme:video-editing"/>
-    <file name="photoshop.css" crc="284687931" ref="photoshop"/>
-    <file name="3d-modeling.css" crc="423908015" ref="3d-modeling"/>
-    <file name="index.css" crc="146658438" ref="index"/>
-    <file name="art195.css" crc="159709214" ref="art195"/>
-    <file name="programming.css" crc="181392442" ref="programming"/>
-    <file name="illustrations.css" crc="4013000177" ref="illustrations"/>
-    <file name="aboutme.css" crc="499145737" ref="aboutme"/>
+    <file name="master_a-master.css" crc="3990996023" ref="video-editing:aboutme:part4:illustrations:programming:photoshop:part2:dm-bfa:3d-modeling:part3:index:part5"/>
     <file name="video-editing.css" crc="472750088" ref="video-editing"/>
+    <file name="aboutme.css" crc="499145737" ref="aboutme"/>
+    <file name="part4.css" crc="416542732" ref="part4"/>
+    <file name="illustrations.css" crc="4013000177" ref="illustrations"/>
+    <file name="programming.css" crc="181392442" ref="programming"/>
+    <file name="photoshop.css" crc="284687931" ref="photoshop"/>
+    <file name="part2.css" crc="3762049515" ref="part2"/>
+    <file name="dm-bfa.css" crc="468252347" ref="dm-bfa"/>
+    <file name="3d-modeling.css" crc="423908015" ref="3d-modeling"/>
+    <file name="part3.css" crc="4204558636" ref="part3"/>
+    <file name="index.css" crc="146658438" ref="index"/>
+    <file name="part5.css" crc="4196451958" ref="part5"/>
   </folder>
   <folder name="assets">
     <file name="viejochupicuaro.tif" crc="4052197419" seo="true" mt="1588141511000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="museutils.js" crc="3803043152" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="whatinput.js" crc="86476730" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="museconfig.js" crc="380897831" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="jquery.watch.js" crc="99325471" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="html5shiv.js" crc="4241844378" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="require.js" crc="4157109226" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="museutils.js" crc="3803043152" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="whatinput.js" crc="86476730" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="museconfig.js" crc="380897831" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="jquery.watch.js" crc="99325471" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="html5shiv.js" crc="4241844378" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="require.js" crc="4157109226" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
     <file name="webpro.js" crc="242022427" ref="photoshop:index:illustrations:3d-modeling"/>
     <file name="musewpslideshow.js" crc="457073769" ref="photoshop:index:illustrations:3d-modeling"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="photoshop:index:illustrations:3d-modeling"/>
     <file name="touchswipe.js" crc="4066113679" ref="photoshop:index:illustrations:3d-modeling"/>
   </folder>
   <folder name="images">
-    <file name="u8764-4.png" crc="399812298" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="blank.gif" crc="4208392903" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="u4402_states.png" crc="4008580763" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
-    <file name="u4402_states-r.png" crc="536344204" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:art195"/>
+    <file name="u8764-4.png" crc="399812298" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="blank.gif" crc="4208392903" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="u4402_states.png" crc="4008580763" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
+    <file name="u4402_states-r.png" crc="536344204" ref="aboutme:photoshop:index:illustrations:video-editing:3d-modeling:programming:dm-bfa:part2:part3:part4:part5"/>
     <file name="img_20190408_142354.jpg" crc="4101238659" seo="true" ref="aboutme">
       <caption webpage="aboutme" alt=""/>
     </file>
@@ -190,16 +194,32 @@
     <file name="pasted image 790x794.jpg" crc="3798115365" seo="true" ref="programming">
       <caption webpage="programming" alt=""/>
     </file>
-    <file name="finalchupicuaro2beta.png" crc="4004723159" seo="true" ref="art195">
-      <caption webpage="art195" alt=""/>
+    <file name="finalchupicuaro2000.jpg" crc="419604918" seo="true" ref="dm-bfa">
+      <caption webpage="dm-bfa" alt=""/>
+    </file>
+    <file name="chupicuarofinal1.png" crc="4121189154" seo="true" ref="part2">
+      <caption webpage="part2" alt=""/>
+    </file>
+    <file name="finalchupicuaro1.png" crc="3818941785" seo="true" ref="part3">
+      <caption webpage="part3" alt=""/>
+    </file>
+    <file name="finalchupicuaro3fast.png" crc="56603043" seo="true" ref="part4">
+      <caption webpage="part4" alt=""/>
+    </file>
+    <file name="finalchupicuaro4.png" crc="72600784" seo="true" ref="part5">
+      <caption webpage="part5" alt=""/>
     </file>
   </folder>
-  <file name="aboutme.html" crc="4079171675" seo="true" mt="1605350130998" redirect="true"/>
-  <file name="photoshop.html" crc="4191385528" seo="true" mt="1605350372745" redirect="true"/>
-  <file name="index.html" crc="230045035" seo="true" mt="1605349952671" redirect="true"/>
-  <file name="illustrations.html" crc="4158531611" seo="true" mt="1605350265855" redirect="true"/>
-  <file name="video-editing.html" crc="3988648324" seo="true" mt="1605350454840" redirect="true"/>
-  <file name="3d-modeling.html" crc="4047383814" seo="true" mt="1605350500235" redirect="true"/>
-  <file name="programming.html" crc="473658043" seo="true" mt="1605349952671" redirect="true"/>
-  <file name="art195.html" crc="189021501" seo="true" mt="1605349952671" redirect="true"/>
+  <file name="aboutme.html" crc="4220797795" seo="true" mt="1606329449099" redirect="true"/>
+  <file name="photoshop.html" crc="4086485467" seo="true" mt="1606329449099" redirect="true"/>
+  <file name="index.html" crc="493547087" seo="true" mt="1606329449099" redirect="true"/>
+  <file name="illustrations.html" crc="366639598" seo="true" mt="1606329449099" redirect="true"/>
+  <file name="video-editing.html" crc="3889939451" seo="true" mt="1606329449099" redirect="true"/>
+  <file name="3d-modeling.html" crc="4201997403" seo="true" mt="1606329449099" redirect="true"/>
+  <file name="programming.html" crc="471827180" seo="true" mt="1606329449099" redirect="true"/>
+  <file name="dm-bfa.html" crc="4176263978" seo="true" mt="1606344556527" redirect="true"/>
+  <file name="part2.html" crc="3775913547" seo="true" mt="1606345136701" redirect="true"/>
+  <file name="part3.html" crc="181862380" seo="true" mt="1606345271864" redirect="true"/>
+  <file name="part4.html" crc="74861715" seo="true" mt="1606351633164" redirect="true"/>
+  <file name="part5.html" crc="3953283113" seo="true" mt="1606347001361" redirect="true"/>
 </manifest>
